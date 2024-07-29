@@ -7,4 +7,4 @@ The data used for fine-tuning consisted of 4 main elements, for each of them the
 [COMMENT] after which the whole comment was given
 [TITLE] was placed before title of the video under which selected comment was published
 [CHANNEL] signified by which content creator given video was uploaded
-[WHY] which was followed by 
+[WHY] which was followed by  
